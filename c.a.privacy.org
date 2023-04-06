@@ -1,0 +1,469 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:t toc:nil todo:t |:t
+#+title: Guarding the Privacy of the Believer in the Modern Age
+#+author: ZIG
+#+email: 0cipher@tutanota.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+#+cite_export:
+#+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
+#+FROM:CYBER ANSARES
+\maketitle
+
+Bismillaah Ar-Rahmaan Ar-RAHEEM/in the name of GOD the most
+compassionate the most merciful
+
+Praise be to Allah! We praise Him, We seek His help and His
+forgiveness. We seek refuge with Allah from the evils of our souls and
+our misdeeds. Whomever Allah guides will never be led astray, and
+whomever Allah leads astray, no one can guide. I bear witness that
+there is none worthy of worship but Allah, alone without partners unto
+Him, and I bear witness that Muhammad is His servant and Messenger.)
+
+My dear Muslim brothers and sister the time we live in comes with
+trials that many of the companions could not even imagine.The world we
+live in is more connected today then it was just 200 years ago.With
+the creation of the internet computers,laptops,cell phones,online
+gaming with gaming counsels like Xbox and PlayStation etc people now
+have more access to one another then any time other time in human
+history.the question i want to bring up to the ummah/ Muslim community
+as a WHOLE body is, how has this affected or impacted the Muslims
+globally.I want you to look into the ways this has affected us in a
+negative way and what we can do to counteract the negative effects of
+the global connection which has impacted the Muslims as a whole. First
+i want to bring to your mind some of the saying of the prophet
+Muhammad peace and blessing be upon him.The message of the prophet in
+these sayings will be a solid foundation for you to stand on so that
+you may protect yourself against the snares and traps of the modern
+age.
+
+Before i continue i want to say that spying is not bad only for the
+Muslims but it is also bad for the non Muslim whether your are the one
+doing the spying or the one getting spied on it does not benefit the
+muslim or non muslim so this is also a humanity problem not just a
+muslim one. i am adressing the muslims specificly in this writing
+because one its my duty as a muslim to want what is best for his ummah
+just as it is a muslims duty to want the best for all of humanity. now
+i can further explain to you the spying issue.
+
+
+1. Mu’awiyah reported: The Messenger of Allah, peace and blessings be
+   upon him, said, “Verily, if you seek out the faults of people, you
+   will corrupt them or nearly corrupt them.”
+
+Source: Sunan Abī Dāwūd 4888
+
+Grade: Sahih (authentic) according to Al-Albani
+
+One of my favorite hadith or sayings of the Prophet Muhammad (PBUH),
+involves a camel. Narrated by al-Tirmidhi, the hadith outlines the
+story of a Bedouin man who was leaving his camel without tying it. The
+Prophet (PBUH) asked him “Why don’t you tie down your camel?” The
+Bedouin answered, “I put my trust in Allah.” The Prophet then replied,
+“Tie your camel first, and then put your trust in Allah.”
+
+Source: Sunan al-Tirmidhī 2517
+
+Grade: Hasan (fair) according to Al-Albani
+
+2. Anas ibn Malik reported: A man said, “O Messenger of Allah, should
+   I tie my camel and trust in Allah, or should I leave her untied and
+   trust in Allah?” The Prophet, peace and blessings be upon him,
+   said, “Tie her and trust in Allah.
+
+The first Hadith speeks of spying as a form of looking for faults in
+others its a method of seeking to corrupt a person or a country or a
+group. most the hadith about spying are about muslims not spying on
+each other but what if the spying is not being done by a muslim what
+if it is being done by the non muslims as well. it does not matter if
+the spy is a muslim or not the Hadith saids spying is usally for
+corrupting a person or a people or a group or a nation. My dears
+brothers and sisters in islam is anyone spying on the muslims, or has
+any spy operations ever been executed againt the muslim ummah? These
+are two question i have for you.
+
+The second hadith speeks of not haveing blind faith it also talks
+about securing your self this hadith is essential for all humanity
+because it shows allah does not desire to rob you of your reason and
+inttelect. The hadith shows that a person bares the resposibility of
+securing his own property and securing him or her self. It shows that
+you must do everything within your power and intellect to guard your
+self and then we ask allah for help and assitance after we have done
+are part to guard our selfs.This hadith shows the ignorance of leaving
+everything in the hands of allah when you have your own hands as well.
+
+If you have not answer the first question yet then let me answer it
+for you. the answer is YES the muslim ummah has been spied on and it
+is most likely still being spied on and if i am to be honest no other
+ummah/community is more spied on and or spied against then the ummah
+of the muslims. you may ask why would the muslims be spied on the
+answer to that is so that those who spy on the muslims may find ways
+to corrupt the ummah or at leats nearly corrupt the ummah. these spy
+are seeking the faults and the weaknesses of the ummah they also seek
+to find the vulnerabiltys of the ummah so that they may exploit them.
+i have to admit that if the muslims knew how to tie there camel if the
+muslims would get rid of the trap of blind faith the ummah would not
+have had as many infotrations as it had before and after 9/11. The
+facts are the we must also hold are selfs resposible as well we must
+hold are self accountable and ignorance or not knowing is not an
+excuse or a pardon for are errors. Almost every muslim owns a cell
+phone or owns a computer. you take it eveywhere with you you cant even
+live with out it most of the time. we do eveything from talk to
+friends and family to finding jobs to entertainment to paying bills my
+gosh are whole life has been placed online almost, there was a time you
+could do all these things with out the need of the internet or a
+device. I will for a brief moment go into some history of the modern
+age that will show you how bad is the state of the ummah when it comes
+to the spying problem that we are suffering from most of us dont even
+knows there is a silent war going on against us on top of the not so
+silent war that is also going on against islam/muslims.
+
+* History of the Modern Age and Spies Against Islam
+** CASE: FBI VS FAZAGA
+2006-2007 
+LINK: https://www.aclu.org/cases/fbi-v-fazaga
+
+SUMMARY: In a case scheduled to be argued before the U.S. Supreme
+Court on November 8, 2021, three Muslim Americans are challenging the
+FBI’s secret spying on them and their communities based on their
+religion, in violation of the Constitution and federal law. In what
+will likely be a landmark case, the plaintiffs — Yassir Fazaga, Ali
+Uddin Malik, and Yasser Abdelrahim — insist that the FBI cannot escape
+accountability for violating their religious freedom by invoking
+“state secrets.” The plaintiffs are represented by the Center for
+Immigration Law and Policy at UCLA School of Law, the ACLU of Southern
+California, the American Civil Liberties Union, the Council for
+American Islamic Relations, and the law firm of Hadsell Stormer Renick
+& Dai.
+
+The FBI informant indiscriminately gathered names, telephone numbers,
+and email addresses, as well as information on the religious and
+political beliefs of hundreds of Muslim Americans who were exercising
+their constitutional right to religious freedom
+
+The case stems from an FBI operation in 2006 and 2007 in which agents
+sent a paid informant to some of the largest, most diverse mosques in
+Orange County, California and instructed him to pose as a convert to
+Islam.
+
+IN THE END Supreme Court Sides With F.B.I. in Case on Spying on Muslims.
+
+** CASE: NYPD program to spy on muslims
+2002
+LINK: https://www.aclu.org/other/factsheet-nypd-muslim-surveillance-program
+
+SUMMARY: Since at least 2002, the New York City Police Department’s
+Intelligence Division has engaged in the religious profiling and
+suspicionless surveillance of Muslims in New York City and beyond. The
+NYPD’s Intelligence Division has singled out Muslim religious and
+community leaders, mosques, student associations, organizations,
+businesses, and individuals for pervasive surveillance that is
+discriminatory and not conducted against institutions or individuals
+belonging to any other religious faith, or the public at large.
+
+** CASE: MUSLIM APPS
+2018-2022
+LINK: https://www.theguardian.com/us-news/2020/dec/03/aclu-seeks-release-records-data-us-collected-via-muslim-app-used-millions
+LINKS: https://theclearevidence.org/aspects-of-life/prayer-and-mosque/us-has-been-found-spying-on-muslims-again-through-prayer-apps-on-android/
+
+Media reports have indicated a number of applications that were used
+to spy on Muslims in the United States, warning that they endanger
+their privacy. Popular apps such as Muslim Mingle, Full Quran MP3,
+Qibla Compass, QR barcode scanner and Al-moazin Lite, have a special
+code that tracks who downloads these applications and uses them. Nihad
+Awad, executive director and co-founder of the Council on
+American-Islamic Relations (CAIR), said that he discovered that many
+companies that use these applications are spying on hundreds of
+millions of Muslims around the world and in the United States. He
+revealed that these companies give the databases of the users to the
+US government, the Ministry of Defense and the US military, and they
+are sold to other institutions, stressing that this is a threat and a
+breach of religious freedom for individuals in the United States and
+the world. More than 80 Islamic organizations had earlier demanded to
+determine whether the Terrorism Investigative Project, an
+anti-American organization, had violated any federal laws in an
+espionage campaign. Human rights organizations, mosques, and charities
+wrote to the Department of Justice, calling for an investigation into
+an anti-Muslim organization’s violation of federal laws and spying on
+several Muslim organizations in the United States.
+
+the articles show proof that muslims have beeen and still are being
+spied on by the united states goverments and military. many spys have
+been sent to are masjids to spy on us and into are communitys,these
+spys act like muslims they mock are religions and talk about allah
+with a lieing heart.In front of are faces these spy say they balive in
+allah when in reality they only worship there goverment. there
+goverment is there god and there goverment is there faith.The other
+way we are being spied on is through apps muslims apps and non muslim
+apps. these apps are able to get your location as well as your contact
+list as well as all your pictures and txt messages these kind of apps
+theat were created to spy on muslims are called SPYWARE.This is a huge
+problem the muslims and as well as the rest of humanity is forced to
+face and live with but for every night there is a day and for every
+problem there is a solution just as every winter has a spring.
+
+* The Solution to the Problem
+
+As for the solution to the internet and phone privacy issue the best
+solution is to de-GOOGLE your life.
+
+In recent years, concerns about online privacy and data security have
+prompted many people to question the role of tech giants like Google
+in our lives. Some argue that we should "de-Google" - that is, reduce
+our reliance on Google's products and services in order to protect our
+privacy and promote a more open, decentralized internet.
+
+One of the main reasons to de-Google is the company's vast data
+collection practices. Google's search engine, email service, maps, and
+other products are all designed to gather information about users'
+online behavior, including search queries, location data, and personal
+contacts. This data is used to serve personalized ads and
+recommendations, but it also gives Google a wealth of information
+about our lives, interests, and relationships. This can be concerning,
+especially when we consider how much of our personal and professional
+lives are now conducted online.
+
+Another reason to de-Google is the company's increasing influence over
+the internet as a whole. Google's search engine dominates the market,
+with over 90% of global search traffic. Its other products, such as
+YouTube and Google Maps, are similarly dominant in their respective
+markets. This gives Google tremendous power to shape the online
+experience of millions of people, including what information we see,
+what products we buy, and even how we think about the world. Critics
+argue that this centralized control over the internet is dangerous, as
+it can lead to censorship, bias, and the erosion of free speech and
+competition.
+
+Finally, de-Googling can be seen as a way to promote a more open,
+decentralized internet. By reducing our reliance on a single company,
+we can encourage the development of alternative platforms and
+technologies that are more transparent, user-friendly, and secure.
+This could include decentralized search engines, email services, and
+social networks that are owned and controlled by users themselves,
+rather than by a corporate entity.
+
+Of course, de-Googling is not without its challenges. Google's
+products and services are often deeply integrated into our daily
+lives, and finding suitable alternatives can be time-consuming and
+difficult. Moreover, many of Google's offerings are free or low-cost,
+making them attractive to users who are on a budget. However, for
+those who are concerned about privacy, security, and the future of the
+internet, de-Googling may be a necessary step towards a more
+democratic, decentralized, and user-controlled online world.
+
+In conclusion, the decision to de-Google is a deeply personal one, and there is no one-size-fits-all approach. However, by considering the potential risks and benefits of using Google's products and services, we can make more informed choices about our online lives. Whether we choose to de-Google entirely, or simply use Google's offerings with greater caution and awareness, we can all play a role in shaping the future of the internet.
+
+* How to De-Google
+
+Replace (G-MAIL) with ether Tutanota mail or proton mail or canary mail or thunderbird.
+
+https://tutanota.com/
+https://proton.me/
+
+Tutanota: is the world's most secure email service, easy to use and
+private by design. You get fully encrypted calendars and contacts with
+all our personal and business email accounts. Secure, green and
+ad-free. Email to feel good about. GET ENCRYPTED EMAIL APPS Encrypted
+email made easy The internet should be secure and private by default.
+
+Proton:Mail is a private email service that uses open source,
+independently audited end-to-end encryption and zero-access encryption
+to secure your communications. This protects against data breaches and
+ensures no one (not even Proton) can access your inbox. Only you can
+read your messages
+
+Canary’s security suite is second to none with Seamless End-To-End
+Encryption, Full PGP Support, Biometric App Lock, On-Device Fetch, No
+Ads, No Data Mining & Open Source Mail Sync Engine. Also available for
+Mac.
+
+Mozilla Thunderbird is a email client, personal information manager,
+news client, RSS and chat client.
+
+Replace (google drive) with ether Nextcloud or MEGA or Filen
+
+Nextcloud: is functionally similar to Dropbox, Office 365 or Google
+Drive. It can be hosted in the cloud or on-premises. It is scalable
+from home office solutions based on the low cost Raspberry Pi all the
+way through to full sized data centre solutions that support millions
+of users.
+
+MEGA: Company is based in New Zealand. The free plan offers 20 GB
+storage and a daily 5GB transfer limit
+
+Filem:Hosted in Germany. The free plan offers 10 GB storage and
+unlimited bandwith.
+
+(INSTANT MESAGING ALTERNATIVES.)
+Briar,Session,Element,zangi,status,Cwtch,Threema
+
+BRIAR: Is a Peer to Peer encrypted messaging and forums. Briar is an
+all in one messaging app
+
+ELEMENT: Is a modern alternative to IRC or Discord. Good for team
+chats and groups.
+
+SESSION: No phone number or email address is required to signup.
+Similar functionality like Element, but still in an earlier stage of
+development. Decentralized servers routed through Lokinet.
+
+ZANGI: Zangi is a Silicon Valley-based private communication
+messenger, which drives innovation in secure, high-quality private
+communication solutions for everyone. Zangi has two main business
+lines: Zangi Free Messenger and Zangi Business Solutions. Free
+Messenger For secure and fast messaging, calling, groups and file
+transfer.
+
+STATUS: No phone number or email address is required to signup. Uses
+the peer-to-peer (p2p) messaging protocol Waku that removes
+centralized third parties from messages.
+
+CWTCH: User friendly, lightweight, for desktop and Android. End-to-end
+encrypted and takes place over Tor v3 onion services.
+Privacy-preserving, multi-party messaging protocol. Built to be
+metadata resistant.
+
+THREEMA: No native desktop apps available yet, but there is a web
+version for your browser. No phone number is required to signup but
+there is a payment involved to get the app. Fortunately the Threema
+shop accepts Bitcoin.
+
+REPLACE (google search engine) with more secure and private browsers
+
+DUCKDUCKGO: Built-in advertising trackers blocking, private search and
+forces sites to use an encrypted connection if available.
+
+FIREFOX: It’s recommended to install additional browser add ons to
+strengthen Firefox even more. Firefox is able to sync across all your
+devices on different platforms. Firefox is not the perfect out of the
+box solution but it’s definitely worth it to take the extra time and
+setup Firefox properly. Check for WebRTC & DNS leaks and learn how to
+fix them with the connection check at mullvad.net. Hardening &
+Tweaking: The default settings of Firefox are not the best choice to
+be a privacy respecting browser. Use Firefox Profilemaker to adjust
+the settings. An alternative is to download the hardened Arkenfox’s
+user.js – Place this in your Firefox’s user.js directory and it will
+fix everything for you. You can also do it manually.
+
+TOR: Tor Browser is your choice if you need an extra layer of
+anonymity. It’s a modified version of Firefox, which comes with
+pre-installed privacy add-ons, encryption, and an advanced proxy. It’s
+not recommended to install additional browser addons. Plugins or
+addons may bypass Tor or compromise your privacy.
+
+BRAVE:Not a popular choice within the privacy community but it offers
+a complete package out of the box on all platforms and is suitable for
+beginners or if setup time is a factor at the given situation.
+Wikipedia offers more information about it’s controversies.
+
+BROMITE:Chromium browser with privacy and security enhancements,
+built-in adblocking and DNS over HTTPS support.
+
+* Use a VPN
+1.IVPN
+2.PROTON VPN
+3.MULLAD VPN
+these are the 3 vpns i recomend for now
+
+NOTE (Technology is very important to the future generation. Privacy
+tools are now easy to use. With Ai and machine learning getting better
+and the internet of things becoming the new boom market if we don’t
+make privacy a core focus we will lose privacy forever)
+
+"Muslims, like any other individuals, should care about internet
+privacy for several reasons. Here are a few:
+- Protecting personal information: The internet has made it easy to
+  share personal information, but it has also made it easier for that
+  information to be misused. Muslims, like everyone else, have a right
+  to keep their personal information private and secure. This includes
+  their name, address, email address, phone number, and other
+  sensitive information.
+- Avoiding online harassment and discrimination: Muslims are often the
+  target of online harassment and discrimination, which can be
+  emotionally and psychologically damaging. Protecting their online
+  privacy can help prevent such incidents from occurring.
+- Preserving religious freedom: Privacy is a fundamental human right
+  and is essential for preserving religious freedom. Muslims should be
+  able to express their religious beliefs and practices online without
+  fear of persecution or discrimination.
+- Preventing surveillance and monitoring: Many governments and
+  organizations engage in surveillance and monitoring of online
+  activities. Muslims may be particularly vulnerable to such
+  surveillance, given the current political climate. Protecting online
+  privacy can help prevent surveillance and monitoring and protect
+  individuals' rights to privacy and freedom of
+  expression.
+
+Overall, internet privacy is important for all individuals, including
+Muslims, to protect personal information, prevent online harassment
+and discrimination, preserve religious freedom, and prevent
+surveillance and monitoring." (END OF NOTE)
+
+
+I leave you with this to keep in mind.
+
+In recent years, there have been numerous reports of Muslim apps being
+used to spy on Muslims. This has raised concerns among Muslim
+communities worldwide, who are increasingly becoming aware of the need
+to be more cautious when using apps that are specifically marketed
+towards Muslims. In this essay, we will discuss why Muslims should be
+more aware of this issue and what steps they can take to protect their
+privacy.
+
+Firstly, it is important to understand how these apps are used to spy
+on Muslims. Many Muslim apps require users to provide personal
+information such as name, address, and phone number. This information
+can be used by malicious actors to track individuals and monitor their
+activities. Additionally, some Muslim apps are known to contain
+spyware and malware that can be used to remotely access and control
+devices, allowing attackers to steal personal information, intercept
+communications, and even turn on the device's camera and microphone
+without the user's knowledge.
+
+Secondly, Muslims should be more aware of this issue because of the
+potential consequences. Muslim communities have long been subjected to
+surveillance and monitoring by governments and intelligence agencies,
+which has led to discrimination, persecution, and even imprisonment in
+some cases. The use of Muslim apps to spy on Muslims only exacerbates
+this problem and can lead to further violations of human rights and
+civil liberties.
+
+Thirdly, there is a need for greater awareness among Muslims about the
+risks associated with using Muslim apps. Many Muslims may assume that
+these apps are safe and secure because they are marketed towards them,
+but this is not necessarily the case. It is important for Muslims to
+understand that any app can be vulnerable to hacking, and they should
+take steps to protect their privacy and security when using any app.
+
+Finally, there are steps that Muslims can take to protect their
+privacy when using Muslim apps. Firstly, they should be cautious about
+the information they provide when signing up for these apps, and
+should avoid providing any unnecessary personal information. Secondly,
+they should use strong and unique passwords for each app, and enable
+two-factor authentication where possible. Thirdly, they should
+regularly update their devices and apps to ensure they have the latest
+security patches and updates. Additionally, they should consider using
+a virtual private network (VPN) to encrypt their internet connection
+and protect their online activities from prying eyes.
+
+In conclusion, the use of Muslim apps to spy on Muslims is a growing
+concern, and Muslims should be more aware of this issue to protect
+their privacy and security. They should take steps to protect
+themselves when using any app, and should remain vigilant about the
+risks associated with using apps marketed towards Muslims. By doing
+so, they can help to protect their human rights and civil liberties,
+and ensure that they are not subject to discrimination, persecution,
+or imprisonment based on their religious beliefs or activities.
+
+May Peace be upon you,
+ZIG
+
+element: @no.i.d.whodini:matrix.org
+session: 054a88b5db81926329cc93ddc21d227128c92cc779c40844891279c4c32da0c668
+email: 0cipher@tutanota.com
+
